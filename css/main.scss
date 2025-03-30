@@ -4,6 +4,49 @@
 @import "tables";
 @import "monokai";
 
+/* 사용자 정의 폰트 적용. _includes/head.html에도 적용함 */
+body {
+  font-family: 'Nanum Gothic', sans-serif !important;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Nanum Gothic', sans-serif !important;
+}
+
+.post-title {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Nanum Gothic', sans-serif !important;
+}
+
+h1 {
+  font-size: 1.75rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+h4 {
+  font-size: 1.1rem;
+}
+
+h5 {
+  font-size: 0.9rem;
+}
+
+h6 {
+  font-size: 0.7rem;
+  color: #414141;
+}
+
+
+
 /* Modifications */
 
 pre.highlight,

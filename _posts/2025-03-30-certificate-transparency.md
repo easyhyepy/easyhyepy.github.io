@@ -1,8 +1,8 @@
 ---
 title: "Certificate Transparency"
 date: 2025-03-30
-categories: [Security]
-tags: [CT]
+categories: [Paper]
+tags: [Security, Paper]
 ---
 
 # PKI 복습

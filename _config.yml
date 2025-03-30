@@ -10,7 +10,7 @@ baseurl: ''
 author:
   name: 'Jihye'
   email: jhlee1326@naver.com
-  portfolio: https://sites.google.com/view/easyhye-py
+  github_username: easyhyepy
 
 defaults:
   -
