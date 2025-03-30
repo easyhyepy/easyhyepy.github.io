@@ -1,0 +1,15 @@
+---
+title:  "AI agent?"
+date:   2025-03-30 11:04:23
+categories: [Agent]
+tags: [Agent]
+---
+
+![AI Agent란?](/images/ai-agent-diagram.png)
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
+
+

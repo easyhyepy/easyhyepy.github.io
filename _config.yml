@@ -39,3 +39,4 @@ kramdown:
 
 plugins: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+future: true
