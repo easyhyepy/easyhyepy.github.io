@@ -36,6 +36,8 @@ kramdown:
   input: GFM
   # do not replace newlines by <br>s
   hard_wrap: false
+  # $수학수식$이 노션과 다르게 인식이 안되어 추가함
+  math_engine: mathjax
 
 plugins: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
